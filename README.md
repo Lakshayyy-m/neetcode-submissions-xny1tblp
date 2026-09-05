@@ -1,6 +1,6 @@
-# NeetCode Solutions â @Lakshayyy-m
+# NeetCode Solutions Ã¢ÂÂ @Lakshayyy-m
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) Â· Repository: `neetcode-submissions-xny1tblp`
+> Synced automatically from [NeetCode.io](https://neetcode.io) ÃÂ· Repository: `neetcode-submissions-xny1tblp`
 
 ---
 
@@ -13,9 +13,9 @@
 ## How GitHub Sync works
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** â every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** â push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** â from the submission history panel on any problem page, sync or remove individual submissions.
+2. **Auto-commit** Ã¢ÂÂ every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
+3. **Bulk Sync** Ã¢ÂÂ push all your past solutions at once from the GitHub settings page.
+4. **Manual sync** Ã¢ÂÂ from the submission history panel on any problem page, sync or remove individual submissions.
 
 ---
 
@@ -26,8 +26,8 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 ```
 <topic-folder>/
   <problem-id>/
-    submission-0.<ext>   â first submission
-    submission-1.<ext>   â second submission
+    submission-0.<ext>   Ã¢ÂÂ first submission
+    submission-1.<ext>   Ã¢ÂÂ second submission
     ...
 ```
 
@@ -62,10 +62,10 @@ Python For Beginners/python-hello-world/submission-0.py
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
-- **Auto-commit toggle** â enable or disable automatic commits on submission
-- **Status filter** â sync all submissions or accepted only
-- **Rename repository** â rename this repo or start fresh with a new one
-- **Bulk Sync** â push all past solutions at once (rate-limited)
+- **Auto-commit toggle** Ã¢ÂÂ enable or disable automatic commits on submission
+- **Status filter** Ã¢ÂÂ sync all submissions or accepted only
+- **Rename repository** Ã¢ÂÂ rename this repo or start fresh with a new one
+- **Bulk Sync** Ã¢ÂÂ push all past solutions at once (rate-limited)
 
 ---
 
@@ -77,4 +77,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3468-find-the-encrypted-string](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/3468-find-the-encrypted-string) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
