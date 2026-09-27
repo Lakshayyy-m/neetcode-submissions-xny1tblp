@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
+| [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
