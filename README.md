@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 | [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
