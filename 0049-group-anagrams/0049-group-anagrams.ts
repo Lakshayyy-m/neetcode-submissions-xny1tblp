@@ -1,21 +1,16 @@
 function groupAnagrams(strs: string[]): string[][] {
-    if (strs.length === 0) return []
-    const result: string[][] = [[strs[0]]]
-    for (let j = 1; j < strs.length; j++) {
-        for (let i = 0; i < result.length; i++) {
-            console.log(i, strs[j], result.length)
-            if (isAnagram(result[i][0], strs[j])) {
-                result[i].push(strs[j])
-                break;
-            }
-            if (i === result.length - 1) {
-                result.push([strs[j]])
-                break
-            }
+    const anagramMap = new Map()
+    for (let str of strs) {
+        let sortedStr = str.split("").sort().join("")
+        if (anagramMap.has(sortedStr)) {
+            anagramMap.get(sortedStr).push(str)
+        } else {
+            anagramMap.set(sortedStr, [str])
         }
     }
 
-    return result
+    return Array.from(anagramMap.values())
+
 };
 
 function isAnagram(str1: string, str2: string): boolean {
