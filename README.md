@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0091-decode-ways) |
 ## Sorting
 |  |
 | ------- |
@@ -68,5 +69,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
