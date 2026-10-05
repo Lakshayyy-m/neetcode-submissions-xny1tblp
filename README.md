@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
+| [0907-koko-eating-bananas](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -71,4 +72,8 @@
 | ------- |
 | [0091-decode-ways](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
