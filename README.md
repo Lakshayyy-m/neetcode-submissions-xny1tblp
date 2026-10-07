@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0907-koko-eating-bananas) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
