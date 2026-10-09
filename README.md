@@ -80,5 +80,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0138-copy-list-with-random-pointer) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
