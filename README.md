@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -25,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
