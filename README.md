@@ -15,12 +15,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0091-decode-ways) |
 ## Sorting
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
