@@ -1,26 +1,29 @@
 function trap(height: number[]): number {
-
-
-    let l = 0
-    let r = height.length - 1
-    let leftMax = height[l]
-    let rightMax = height[r]
+    // two pointers approach
+    let left = 0
+    let right = height.length - 1
+    let maxLeft = height[left]
+    let maxRight = height[right]
     let result = 0
-
-    while (l < r) {
-        leftMax = Math.max(height[l], leftMax)
-        rightMax = Math.max(height[r], rightMax)
-
-        if (leftMax < rightMax) {
-            // we can store water on the left end
-            result += leftMax - height[l]
-            l++
+    while (left < right) {
+        maxLeft = Math.max(maxLeft, height[left])
+        maxRight = Math.max(maxRight, height[right])
+        if (maxLeft < maxRight) {
+            let waterTrapped = maxLeft - height[left]
+            result += waterTrapped
+            left++
         } else {
-            result += rightMax - height[r]
-            r--
+            let waterTrapped = maxRight - height[right]
+            result += waterTrapped
+            right--
         }
     }
 
-
     return result
 };
+
+// Pattern Recognition
+// 1. Constraints -> n is very big. It has to sliding window, two pointer, greedy search or DP
+// 2. Input analysis -> Array, same as above
+// 3. Output analysis -> how much water (integer), again same as above.
+// No sliding window. No DP because no subproblem.

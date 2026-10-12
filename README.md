@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
@@ -99,4 +102,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
