@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
