@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
@@ -21,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -34,6 +36,7 @@
 | [0015-3sum](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -62,6 +65,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -74,6 +78,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -116,4 +121,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
