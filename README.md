@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
@@ -56,10 +57,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -121,8 +124,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
