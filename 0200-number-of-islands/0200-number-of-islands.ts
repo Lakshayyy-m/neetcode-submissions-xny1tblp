@@ -11,8 +11,10 @@ function numIslands(grid: string[][]): number {
 
         for (let i = 0; i < sorroundingIslands.length; i++) {
             let [row, column] = sorroundingIslands[i]
-            grid[row][column] = "0"
-            traverse(row, column)
+            if (row >= 0 && column >= 0 && row < grid.length && column < grid[0].length && grid[row][column] !== "0") {
+                grid[row][column] = "0"
+                traverse(row, column)
+            }
         }
 
 

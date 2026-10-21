@@ -124,7 +124,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
