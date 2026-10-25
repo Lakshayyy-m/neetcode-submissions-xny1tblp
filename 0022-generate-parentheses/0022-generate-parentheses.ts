@@ -12,7 +12,6 @@ function generateParenthesis(n: number): string[] {
                 current += candidates.CLOSE
             }
             result.push(current)
-            console.log(current, parenthesisStack)
             return
         }
         parenthesisStack.push(candidates.OPEN)
@@ -27,7 +26,6 @@ function generateParenthesis(n: number): string[] {
     }
 
     generate(n, "")
-    // console.log(result)
     return result
 
 };
