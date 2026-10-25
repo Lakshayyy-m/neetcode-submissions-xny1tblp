@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0091-decode-ways) |
 ## Sorting
@@ -95,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,7 +131,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0042-trapping-rain-water) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0169-majority-element) |
@@ -141,4 +143,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Lakshayyy-m/neetcode-submissions-xny1tblp/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
