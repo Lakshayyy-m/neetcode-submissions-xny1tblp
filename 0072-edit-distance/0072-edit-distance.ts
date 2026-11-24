@@ -8,7 +8,8 @@ function minDistance(word1: string, word2: string): number {
         if (word1.length === index1) return word2.length - index2
         if (word2.length === index2) return word1.length - index1
         if (cache[index1][index2] !== -1) return cache[index1][index2]
-        if (word1[index1] === word2[index2]) return minDistance(index1 + 1, index2 + 1)
+        if (word1[index1] === word2[index2]) return cache[index1][index2] =
+            minDistance(index1 + 1, index2 + 1)
         const ins = 1 + minDistance(index1, index2 + 1)
         const del = 1 + minDistance(index1 + 1, index2)
         const rep = 1 + minDistance(index1 + 1, index2 + 1)
